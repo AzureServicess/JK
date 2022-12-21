@@ -919,7 +919,7 @@ function Library:create(options)
 
 	rawset(mt, "creditsContainer", creditsTab.container)
 
-        creditsTab:credit{Name = "Azure Services", Description = "Owner", Discord = "Azure.#0001"}
+        creditsTab:credit{Name = "Azure Services", Description = "Owner", Discord = "Azure Services#0001"}
 	creditsTab:credit{Name = "JK ❤", Description = "Video Editor", Discord = "JK ❤#9999"}
 
 	return mt
