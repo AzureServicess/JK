@@ -921,7 +921,7 @@ function Library:create(options)
 
      creditsTab:credit{Name = "Azure Services", Description = "Owner", Discord = "Azure Services#0533"}
 	creditsTab:credit{Name = "JK ❤", Description = "Video Editor", Discord = "JK ❤#9999"}
-     creditsTab:credit{Name = "Vo", Description = "World Editor Scripter", Discord = "Vo#1092"}
+     creditsTab:credit{Name = "Vo", Description = "A Person With A 1000 IQ", Discord = "Vo#1092"}
 
 	return mt
 end
